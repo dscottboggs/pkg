@@ -1,0 +1,13 @@
+name: pkg
+version: 0.1.0
+
+authors:
+  - D. Scott Boggs <scott@tams.tech>
+
+targets:
+  pkg:
+    main: src/pkg.cr
+
+crystal: 0.26.1
+
+license: MIT
